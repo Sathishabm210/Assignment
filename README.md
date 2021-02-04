@@ -25,8 +25,8 @@ Step 3 - Stress test "CircuitBreaker" instance:
 
 ## Usage
 
-Run **circuitBreaker.js** by executing below command
+Run **circuitBreakerTest.js** by executing below command
 ```
-node circuitBreaker
+node circuitBreakerTest
 ```
 
